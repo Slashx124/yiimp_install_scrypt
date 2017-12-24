@@ -52,7 +52,7 @@ bash block.sh
 
 To download and run 
 
-curl -Lo install.sh https://github.com/masterhash-us/yiimp_install_scrypt/blob/master/install.sh
+curl -Lo install.sh https://github.com/ANTIICO/yiimp_install_scrypt/blob/master/install.sh
 
 bash install.sh
 
