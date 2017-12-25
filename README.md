@@ -53,7 +53,9 @@ bash block.sh
 To download and run 
 
 git clone https://github.com/ANTIICO/yiimp_install_scrypt
+
 cd yiimp_install_scrypt
+
 bash install.sh
 
 
