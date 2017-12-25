@@ -52,8 +52,8 @@ bash block.sh
 
 To download and run 
 
-curl -Lo install.sh https://github.com/ANTIICO/yiimp_install_scrypt/blob/master/install.sh
-
+git clone https://github.com/ANTIICO/yiimp_install_scrypt
+cd yiimp_install_scrypt
 bash install.sh
 
 
@@ -61,4 +61,4 @@ If this helped you or you feel giving please donate BTC Donation:
 
 Feel free to join our Discord channel at https://discord.gg/fEKqzSV
 
-Crombie Crunch
+Antiico 
