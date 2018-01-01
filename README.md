@@ -61,15 +61,24 @@ bash install.sh
 after installation you must create an debug.log file in /var/log/debug.log and set all premissions to allow
 
 then set crontabs for main.sh loop2.sh and blocks.sh, wallets and your algos @ reboot like this
+
 crontab -e 
+
 (editor 2)
+
 @reboot /var/web/main.sh
+
 @reboot /var/web/loop2.sh
+
 @reboot /var/web/blocks.sh
 
+
 and your algo you want to start 
+
 @reboot /var/stratum/run.sh skunk
+
 @reboot /var/stratum/run.sh x11
+
 @reboot /var/stratum/run.sh scrypt
 
 save it and reboot !
